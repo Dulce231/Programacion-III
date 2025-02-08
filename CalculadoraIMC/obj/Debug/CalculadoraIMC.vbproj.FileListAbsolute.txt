@@ -1,0 +1,12 @@
+C:\Programacion3\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+C:\Programacion3\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+C:\Programacion3\CalculadoraIMC\bin\Debug\CalculadoraIMC.xml
+C:\Programacion3\CalculadoraIMC\obj\Debug\CalculadoraIMC.vbproj.AssemblyReference.cache
+C:\Programacion3\CalculadoraIMC\obj\Debug\CalculadoraIMC.Form1.resources
+C:\Programacion3\CalculadoraIMC\obj\Debug\CalculadoraIMC.Resources.resources
+C:\Programacion3\CalculadoraIMC\obj\Debug\CalculadoraIMC.Form2.resources
+C:\Programacion3\CalculadoraIMC\obj\Debug\CalculadoraIMC.vbproj.GenerateResource.cache
+C:\Programacion3\CalculadoraIMC\obj\Debug\CalculadoraIMC.vbproj.CoreCompileInputs.cache
+C:\Programacion3\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+C:\Programacion3\CalculadoraIMC\obj\Debug\CalculadoraIMC.xml
+C:\Programacion3\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
