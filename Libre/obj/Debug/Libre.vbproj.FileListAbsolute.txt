@@ -1,0 +1,13 @@
+C:\Programacion3\Libre\bin\Debug\Libre.exe
+C:\Programacion3\Libre\bin\Debug\Libre.pdb
+C:\Programacion3\Libre\bin\Debug\Libre.xml
+C:\Programacion3\Libre\obj\Debug\Libre.vbproj.AssemblyReference.cache
+C:\Programacion3\Libre\obj\Debug\Libre.Form1.resources
+C:\Programacion3\Libre\obj\Debug\Libre.Form2.resources
+C:\Programacion3\Libre\obj\Debug\Libre.Form3.resources
+C:\Programacion3\Libre\obj\Debug\Libre.Resources.resources
+C:\Programacion3\Libre\obj\Debug\Libre.vbproj.GenerateResource.cache
+C:\Programacion3\Libre\obj\Debug\Libre.vbproj.CoreCompileInputs.cache
+C:\Programacion3\Libre\obj\Debug\Libre.exe
+C:\Programacion3\Libre\obj\Debug\Libre.xml
+C:\Programacion3\Libre\obj\Debug\Libre.pdb
